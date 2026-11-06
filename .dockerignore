@@ -1,0 +1,10 @@
+.env
+.git
+.gitignore
+**/__pycache__
+mysite/database
+mysite/static
+mysite/uploads
+# Приватные ключи и документы не должны попадать в образ
+SD-*
+*.docx

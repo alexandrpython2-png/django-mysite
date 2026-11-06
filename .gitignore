@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+mysite/database/
+mysite/static/
+
+# Приватные ключи и документы не публикуем
+SD-*
+*.docx
